@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
 
 
 #EXTINF:-1 tvg-id="001" tvg-name="Acequia" tvg-logo="https://i2.paste.pics/b4a0ed4a7c015b65f3bd13b4a83c66e2.png" group-title="Nacional", Acequia
@@ -103,11 +103,11 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
 https://edge5-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 #EXTINF:-1 tvg-id="203" tvg-name="Discovery H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-4.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", Discovery H&H
 https://edge5-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
-#EXTINF:-1 tvg-id="204" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/208px-History_%282021%29.svg.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", History
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/208px-History_%282021%29.svg.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", History
 https://edge5-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/233px-History2_logo_%282022%29.svg.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", History II
 https://edge5-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1 tvg-id="206" tvg-name="Nat Geo" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo-5.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", National Geographic
+#EXTINF:-1 tvg-id="NationalGeographicCentro.us" tvg-name="Nat Geo" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo-5.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", National Geographic
 https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", Animal Planet
 https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
@@ -134,7 +134,7 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-id="258" tvg-name="FOX Sports Premium" tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports Premium
 https://edge5-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1 tvg-id="259" tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/320px-FOX_Sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports
+#EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/320px-FOX_Sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 #EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-name="FOX Sports II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/320px-2015_Fox_sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports II
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
@@ -209,3 +209,5 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1 tvg-id="403" tvg-name="Much Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/240px-MuchMusicLA_%282007%29.svg.png" group-title="Música", Much Music
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+#EXTINF:-1 tvg-id="401" tvg-name="VEVO Latino" tvg-logo="http://assets.stickpng.com/thumbs/5a8082dcabc3d121aba711b4.png" group-title="Música" audio-track="spa", VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8?PlaylistM3UCL
