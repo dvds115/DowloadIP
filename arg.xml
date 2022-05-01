@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv>
+<channel id="AMCLatinAmerica.us"><display-name>AMC Latin America</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="AXNLatinAmerica.us"><display-name>AXN Latinoamérica</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="AmericaTV.ar"><display-name>América TV</display-name><icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/><url>https://gatotv.com</url></channel>
+</tv>
