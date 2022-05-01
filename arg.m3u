@@ -9,7 +9,7 @@ https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
 #EXTINF:-1 tvg-id="004" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Nacional", Telemax (TLX)
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Nacional", Telemax (TLX)
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
@@ -19,11 +19,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://www.utpba.org/wp-content/uploads/2020/08/C1-660x330.jpg" group-title="Nacional", Cronica TV
 https://edge5-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
-#EXTINF:-1 tvg-id="011" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/640px-TN_todo_noticias_logo.svg.png" group-title="Nacional", Todo Noticias (TN)
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/640px-TN_todo_noticias_logo.svg.png" group-title="Nacional", Todo Noticias (TN)
 https://edge5-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="Nacional", A24 (América 24)
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
-#EXTINF:-1 tvg-id="012" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/320px-La-Nacion-Mas-Logo.svg.png" group-title="Nacional", La Nación+
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/320px-La-Nacion-Mas-Logo.svg.png" group-title="Nacional", La Nación+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GZEwdVV5DTY
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Nacional" audio-track="spa", Telefe
 https://edge5-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
@@ -126,19 +126,19 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1 tvg-id="ESPN4South.ar" tvg-name="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/640px-ESPN_4_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", ESPN4
 https://edge5-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-#EXTINF:-1 tvg-id="255" tvg-name="ESPN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" tvg-description="Deportivo" group-title="Deportes", ESPN Extra
+#EXTINF:-1 tvg-id="ESPNExtraSouth.ar" tvg-name="ESPN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" tvg-description="Deportivo" group-title="Deportes", ESPN Extra
 https://edge5-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-id="256" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/320px-TyC_Sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", TyC Sports
 https://edge5-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 tvg-id="257" tvg-name="TNT Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-4.png" tvg-description="Deportivo" group-title="Deportes", TNT Sports
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 tvg-id="258" tvg-name="FOX Sports Premium" tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" tvg-description="Deportivo" audio-track="spa" group-title="Deportes", FOX Sports Premium
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="FOX Sports Premium" tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" tvg-description="Deportivo" audio-track="spa" group-title="Deportes", FOX Sports Premium
 https://edge5-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/320px-FOX_Sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
-#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-name="FOX Sports II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/320px-2015_Fox_sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports II
+#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-name="FOX Sports II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/320px-2015_Fox_sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports II
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-name="FOX Sports III" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/320px-Fox_sports_3_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports III
+#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-name="FOX Sports III" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/320px-Fox_sports_3_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports III
 https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-description="Deportivo" group-title="Deportes", Bein Sports Xtra Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
@@ -201,13 +201,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
 #EXTINF:-1 tvg-id="370" tvg-name="Hola TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/320px-%C2%A1HOLA%21TVlogo.jpg" audio-track="spa" group-title="Espectáculo", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="400" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="Música", Music Top
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="Música", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MTVLatinAmericaSouth.ar" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/302px-MTV-Logo.svg.png" group-title="Música" audio-track="spa", MTV
 https://edge5-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-#EXTINF:-1 tvg-id="402" tvg-name="Quiero" tvg-logo="https://pbs.twimg.com/profile_images/378800000158588600/85ff6629090999ef0f7deb3cb47d052f_400x400.jpeg" group-title="Música", Quiero Música
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-name="Quiero" tvg-logo="https://pbs.twimg.com/profile_images/378800000158588600/85ff6629090999ef0f7deb3cb47d052f_400x400.jpeg" group-title="Música", Quiero Música
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1 tvg-id="403" tvg-name="Much Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/240px-MuchMusicLA_%282007%29.svg.png" group-title="Música", Much Music
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
-#EXTINF:-1 tvg-id="401" tvg-name="VEVO Latino" tvg-logo="http://assets.stickpng.com/thumbs/5a8082dcabc3d121aba711b4.png" group-title="Música" audio-track="spa", VEVO Latino
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8?PlaylistM3UCL
