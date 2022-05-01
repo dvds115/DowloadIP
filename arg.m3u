@@ -9,15 +9,15 @@ https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
 #EXTINF:-1 tvg-id="004" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="004" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Nacional", Telemax (TLX)
+#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Nacional", Telemax (TLX)
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
-#EXTINF:-1 tvg-id="005" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Canal 26
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="Nacional", C5N
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Nacional" audio-track="spa", TV Pública (TVP)
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-#EXTINF:-1 tvg-id="010" tvg-name="Cronica TV" tvg-logo="https://www.utpba.org/wp-content/uploads/2020/08/C1-660x330.jpg" group-title="Nacional", Cronica TV
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://www.utpba.org/wp-content/uploads/2020/08/C1-660x330.jpg" group-title="Nacional", Cronica TV
 https://edge5-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 #EXTINF:-1 tvg-id="011" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/640px-TN_todo_noticias_logo.svg.png" group-title="Nacional", Todo Noticias (TN)
 https://edge5-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
@@ -34,9 +34,9 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/457px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Nacional", América TV
 https://edge5-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-#EXTINF:-1 tvg-id="050" tvg-name="Canal 2 Posadas" tvg-logo="https://www.canal2misiones.com.ar/img/logo.png" group-title="Provincial", Canal 2 Posadas
+#EXTINF:-1 tvg-id="Canal2.ar" tvg-name="Canal 2 Posadas" tvg-logo="https://www.canal2misiones.com.ar/img/logo.png" group-title="Provincial", Canal 2 Posadas
 https://nd106.republicaservers.com:4433/canal2misioness.mp4
-#EXTINF:-1 tvg-id="051" tvg-name="Canal 4 Posadas" tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="Provincial", Canal 4 Posadas
+#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-name="Canal 4 Posadas" tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="Provincial", Canal 4 Posadas
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="050" tvg-name="Misiones 4" tvg-logo="https://pbs.twimg.com/profile_images/847859061911638016/3XTouZsf_400x400.jpg" group-title="Provincial", Misiones 4 [SD]
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?PlaylistM3UCL
@@ -44,11 +44,11 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?PlaylistM3UCL
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="050" tvg-name="Canal 9 Norte" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png" group-title="Provincial", Canal 9 Norte
 https://panel.dattalive.com/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="053" tvg-name="Canal 12 Posadas" tvg-logo="http://canal12misiones.com/wp-content/uploads/2019/12/logo_horiz_solo_img-removebg-preview.png" group-title="Provincial", Canal 12 Posadas [No Disponible]
+#EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="http://canal12misiones.com/wp-content/uploads/2019/12/logo_horiz_solo_img-removebg-preview.png" group-title="Provincial", Canal 12 Posadas [No Disponible]
 https://vmf.edge-apps.net/embed/live.php?streamname=c12_live01-100129&autoplay=true
-#EXTINF:-1 tvg-id="054" tvg-name="Ciudad TV Chaco" tvg-logo="https://lh3.googleusercontent.com/-xpM6zPNOueI/X1TJk6tTtcI/AAAAAAAA5Tk/yDHQTroLl4kKkYaPT-7umsQVP_uaARPMACK8BGAsYHg/s0/2020-09-06.jpg" group-title="Provincial", Ciudad TV Resistencia
+#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-name="Ciudad TV Chaco" tvg-logo="https://lh3.googleusercontent.com/-xpM6zPNOueI/X1TJk6tTtcI/AAAAAAAA5Tk/yDHQTroLl4kKkYaPT-7umsQVP_uaARPMACK8BGAsYHg/s0/2020-09-06.jpg" group-title="Provincial", Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="055" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg" group-title="Nacional", Canal Rural
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg" group-title="Nacional", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="056" tvg-name="Garage TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
@@ -82,13 +82,13 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Infantil", Anime Zone TV [No Disponible]
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkArgentina.ar" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", Cartoon Network
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png" group-title="Infantil", Nickelodeon
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="Infantil", Disney Channel
 https://edge5-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsAmericaLatina.us" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/546px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil", Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKidsArgentina.ar" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/546px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil", Discovery Kids
 https://edge5-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" audio-track="spa" group-title="Infantil", Nick Jr
 https://edge5-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
@@ -116,7 +116,7 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 #EXTINF:-1 tvg-id="210" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/173px-InvestigationDiscoveryLogo2020.svg.png" audio-track="spa" group-title="Cultura", Investigation Discovery (ID)
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
-#EXTINF:-1 tvg-id="250" tvg-name="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/320px-Deportv.svg.png" tvg-description="Deportivo" group-title="Deportes", DEPORTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/320px-Deportv.svg.png" tvg-description="Deportivo" group-title="Deportes", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="251" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4-1.png" tvg-description="Deportivo" group-title="Deportes", ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
@@ -143,7 +143,7 @@ https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD
 #EXTINF:-1 tvg-id="261" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-description="Deportivo" group-title="Deportes", Bein Sports Xtra Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="300" tvg-name="CINE.AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/320px-Cine.Ar_logo.svg.png" group-title="Cine y series", CINE.AR
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-name="CINE.AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/320px-Cine.Ar_logo.svg.png" group-title="Cine y series", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/320px-Star_Channel_2020.svg.png" audio-track="spa" group-title="Cine y series", Star Channel
 https://edge5-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
