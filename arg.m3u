@@ -25,7 +25,7 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/320px-La-Nacion-Mas-Logo.svg.png" group-title="Nacional", La Nación+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GZEwdVV5DTY
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Nacional" audio-track="spa", Telefe
+#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Nacional" audio-track="spa", Telefe
 https://edge5-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-id="ElTreceInternacional.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/219px-Canal13_logo.png" group-title="Nacional" audio-track="spa", El Trece
 https://edge5-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
@@ -207,5 +207,5 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?Playl
 https://edge5-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 #EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-name="Quiero" tvg-logo="https://pbs.twimg.com/profile_images/378800000158588600/85ff6629090999ef0f7deb3cb47d052f_400x400.jpeg" group-title="Música", Quiero Música
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
-#EXTINF:-1 tvg-id="403" tvg-name="Much Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/240px-MuchMusicLA_%282007%29.svg.png" group-title="Música", Much Music
+#EXTINF:-1 tvg-id="MuchArgentina.ar" tvg-name="Much Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/240px-MuchMusicLA_%282007%29.svg.png" group-title="Música", Much Music
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
