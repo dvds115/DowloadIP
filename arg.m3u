@@ -7,9 +7,9 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?Playlist
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/309px-Logo_del_canal_Encuentro.svg.png" group-title="Nacional", Encuentro
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
-#EXTINF:-1 tvg-id="004" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Nacional", Net TV
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Nacional", Telemax (TLX)
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Nacional", Telemax (TLX)
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
@@ -97,7 +97,7 @@ https://edge-vod04-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u
 
 #EXTINF:-1 tvg-id="200" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" audio-track="spa" group-title="Cultura", Discovery Channel
 https://edge5-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id="201" tvg-name="Discovery TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/320px-Tlc_logo_discovery.jpg" tvg-description="Cultural" audio-track="spa" group-title="Cultura", Discovery TLC
+#EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/320px-Tlc_logo_discovery.jpg" tvg-description="Cultural" audio-track="spa" group-title="Cultura", Discovery TLC
 https://edge5-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/320px-Discovery_Turbo_logo.svg.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", Discovery Turbo
 https://edge5-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
@@ -128,9 +128,9 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 https://edge5-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-id="ESPNExtraSouth.ar" tvg-name="ESPN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" tvg-description="Deportivo" group-title="Deportes", ESPN Extra
 https://edge5-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-#EXTINF:-1 tvg-id="256" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/320px-TyC_Sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/320px-TyC_Sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", TyC Sports
 https://edge5-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1 tvg-id="257" tvg-name="TNT Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-4.png" tvg-description="Deportivo" group-title="Deportes", TNT Sports
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-4.png" tvg-description="Deportivo" group-title="Deportes", TNT Sports
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="FOX Sports Premium" tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" tvg-description="Deportivo" audio-track="spa" group-title="Deportes", FOX Sports Premium
 https://edge5-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
@@ -145,7 +145,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-name="CINE.AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/320px-Cine.Ar_logo.svg.png" group-title="Cine y series", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/320px-Star_Channel_2020.svg.png" audio-track="spa" group-title="Cine y series", Star Channel
+#EXTINF:-1 tvg-id="StarChannelArgentina.ar" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/320px-Star_Channel_2020.svg.png" audio-track="spa" group-title="Cine y series", Star Channel
 https://edge5-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" audio-track="spa" group-title="Cine y series", FX
 https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
@@ -161,15 +161,15 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 https://edge5-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1 tvg-id="321" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/320px-CinecanalLA.png" audio-track="spa" group-title="Cine y series", Cinecanal
 https://edge5-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-#EXTINF:-1 tvg-id="TNTAmericaLatina.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" audio-track="spa" group-title="Cine y series", TNT
+#EXTINF:-1 tvg-id="TNTArgentina.ar" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" audio-track="spa" group-title="Cine y series", TNT
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-#EXTINF:-1 tvg-id="323" tvg-name="TNT Series" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" audio-track="spa" group-title="Cine y series", TNT Series
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT Series" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" audio-track="spa" group-title="Cine y series", TNT Series
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" audio-track="spa" group-title="Cine y series", AXN
 https://edge5-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" audio-track="spa" group-title="Cine y series", AMC
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-#EXTINF:-1 tvg-id="327" tvg-name="TCM" tvg-logo="https://2.bp.blogspot.com/-bkswdpgxFB0/VmDUeL-NFvI/AAAAAAAAANU/hodMmMqCy4U/s1600/TCM.jpg" group-title="Cine y series", TCM
+#EXTINF:-1 tvg-id="TCMArgentina.ar" tvg-name="TCM" tvg-logo="https://2.bp.blogspot.com/-bkswdpgxFB0/VmDUeL-NFvI/AAAAAAAAANU/hodMmMqCy4U/s1600/TCM.jpg" group-title="Cine y series", TCM
 https://edge5-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
 #EXTINF:-1 tvg-id="SyfyLatin.us" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/SYFY_Logo_2020.png/800px-SYFY_Logo_2020.png" audio-track="spa" group-title="Cine y series", Syfy
 https://edge5-sl.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
@@ -177,7 +177,7 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
 https://edge5-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/305px-Paramount_Pictures_Corporation_logo.svg.png" audio-track="spa" group-title="Cine y series", Paramount Channel
 https://edge5-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" audio-track="spa" group-title="Cine y series", Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversalArgentina.ar" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png" audio-track="spa" group-title="Cine y series", Studio Universal
 https://edge5-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" audio-track="spa" group-title="Cine y series", Universal TV
 https://edge5-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
@@ -185,7 +185,7 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Unive
 https://edge5-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel" tvg-logo="https://la.sonychannel.com/sites/la.set/files/sony_channel_logo.png" audio-track="spa" group-title="Cine y series", Sony Channel
 https://edge5-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-#EXTINF:-1 tvg-id="337" tvg-name="Volver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="Cine y series", Volver
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="Cine y series", Volver
 https://edge5-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
 
 #EXTINF:-1 tvg-id="340" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/240px-Food_Network_logo.svg.png" group-title="Gastronómico", Food Network
