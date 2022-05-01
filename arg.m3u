@@ -5,7 +5,7 @@
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="002" tvg-name="ATV Argentina" tvg-logo="https://i2.paste.pics/4e64ef1ad0267a25797ca662d9010e2a.png" group-title="Nacional", ATV Argentina
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="003" tvg-name="Encuentro" "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/309px-Logo_del_canal_Encuentro.svg.png" group-title="Nacional", Encuentro
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/309px-Logo_del_canal_Encuentro.svg.png" group-title="Nacional", Encuentro
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
 #EXTINF:-1 tvg-id="004" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
@@ -29,7 +29,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 https://edge5-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/219px-Canal13_logo.png" group-title="Nacional" audio-track="spa", El Trece
 https://edge5-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-#EXTINF:-1 tvg-id="015" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/365px-Canal_9_2015.png" group-title="Nacional" audio-track="spa", El Nueve
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/365px-Canal_9_2015.png" group-title="Nacional" audio-track="spa", El Nueve
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/457px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Nacional", América TV
 https://edge5-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
@@ -50,7 +50,7 @@ https://vmf.edge-apps.net/embed/live.php?streamname=c12_live01-100129&autoplay=t
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg" group-title="Nacional", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="056" tvg-name="Garage TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Garage TV
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="Garage TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="060" tvg-name="DW Espanol" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Internacional", DW Español
@@ -118,13 +118,13 @@ https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/320px-Deportv.svg.png" tvg-description="Deportivo" group-title="Deportes", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="251" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4-1.png" tvg-description="Deportivo" group-title="Deportes", ESPN
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4-1.png" tvg-description="Deportivo" group-title="Deportes", ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="252" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", ESPN2
+#EXTINF:-1 tvg-id="ESPN2Andes.ar" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", ESPN2
 https://edge5-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-#EXTINF:-1 tvg-id="253" tvg-name="ESPN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" tvg-description="Deportivo" group-title="Deportes", ESPN3
+#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-name="ESPN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" tvg-description="Deportivo" group-title="Deportes", ESPN3
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
-#EXTINF:-1 tvg-id="254" tvg-name="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/640px-ESPN_4_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", ESPN4
+#EXTINF:-1 tvg-id="ESPN4South.ar" tvg-name="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/640px-ESPN_4_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", ESPN4
 https://edge5-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-id="255" tvg-name="ESPN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" tvg-description="Deportivo" group-title="Deportes", ESPN Extra
 https://edge5-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
@@ -132,7 +132,7 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 https://edge5-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 tvg-id="257" tvg-name="TNT Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-4.png" tvg-description="Deportivo" group-title="Deportes", TNT Sports
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 tvg-id="258" tvg-name="FOX Sports Premium" tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports Premium
+#EXTINF:-1 tvg-id="258" tvg-name="FOX Sports Premium" tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" tvg-description="Deportivo" audio-track="spa" group-title="Deportes", FOX Sports Premium
 https://edge5-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/320px-FOX_Sports_logo.svg.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports
 https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
@@ -190,7 +190,7 @@ https://edge5-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
 
 #EXTINF:-1 tvg-id="340" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/240px-Food_Network_logo.svg.png" group-title="Gastronómico", Food Network
 https://edge5-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-#EXTINF:-1 tvg-id="341" tvg-name="El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" audio-track="spa" group-title="Gastronómico", El Gourmet
+#EXTINF:-1 tvg-id="ElGourmetNorte.ar" tvg-name="El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" audio-track="spa" group-title="Gastronómico", El Gourmet
 https://edge5-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
 #EXTINF:-1 tvg-id="350" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/320px-Pasiones_Tv_logo.svg.png" audio-track="spa" group-title="Telenovelas", Pasiones
