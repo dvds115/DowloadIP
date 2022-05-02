@@ -78,21 +78,21 @@ http://174.138.118.252/live/trece.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="066" tvg-name="ABC Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/37-ABCPy.png" group-title="Internacional", ABC Py
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Infantil", Paka Paka
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/38-PakaPaka.png" group-title="Infantil", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Infantil", Anime Zone TV [No Disponible]
+#EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/39-AZTV.png" group-title="Infantil", Anime Zone TV [No Disponible]
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CartoonNetworkArgentina.ar" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkArgentina.ar" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/40-CartoonNetwork.png" group-title="Infantil", Cartoon Network
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png" group-title="Infantil", Nickelodeon
+#EXTINF:-1 tvg-id="103" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/41-Nick.png" group-title="Infantil", Nickelodeon
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="Infantil", Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.us" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/42-Disney.png" group-title="Infantil", Disney Channel
 https://edge5-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsArgentina.ar" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/546px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil", Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKidsArgentina.ar" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/43-DiscoveryKids.png" group-title="Infantil", Discovery Kids
 https://edge5-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" audio-track="spa" group-title="Infantil", Nick Jr
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/44-NickJr.png" audio-track="spa" group-title="Infantil", Nick Jr
 https://edge5-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" audio-track="spa" group-title="Infantil", Disney Jr
+#EXTINF:-1 tvg-id="107" tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/45-DisneyJr.png" audio-track="spa" group-title="Infantil", Disney Jr
 https://edge-vod04-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
 #EXTINF:-1 tvg-id="200" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" audio-track="spa" group-title="Cultura", Discovery Channel
