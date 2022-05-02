@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_AR1.xml.gz" tv-test="TV Argentina.m3u"
 
 
 #EXTINF:-1 tvg-id="001" tvg-name="Acequia" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/01-Acequia.png" group-title="Nacional", Acequia
@@ -21,7 +21,7 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 https://edge5-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/10-TN.png" group-title="Nacional", Todo Noticias (TN)
 https://edge5-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/11-a24.png" group-title="Nacional", A24 (América 24)
+#EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/11-a24.png" group-title="Nacional", A24 (América 24)
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/12-LN%2B.png" group-title="Nacional", La Nación+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GZEwdVV5DTY
@@ -63,7 +63,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8?PlaylistM
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="060" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/30-RaiNews24.png" group-title="Internacional", Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="064" tvg-name="A3Series Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/31-A3SeriesInt.png" group-title="Internacional", A3Series Internacional
+#EXTINF:-1 tvg-id="Atreseries.(ATRES).ar" tvg-name="A3Series Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/31-A3SeriesInt.png" group-title="Internacional", A3Series Internacional
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-id="060" tvg-name="A3Cine" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/32-A3Cine.png" group-title="Internacional", A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8?PlaylistM3UCL
@@ -109,7 +109,7 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 https://edge5-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicCentro.us" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/52-NatGeo.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", National Geographic
 https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanetArgentina.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/53-AnimalPlanet.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", Animal Planet
+#EXTINF:-1 tvg-id="Animal.Planet.International.(Argentina).(ANIMAL).ar" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/53-AnimalPlanet.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", Animal Planet
 https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/54-Lifetime.png" audio-track="spa" group-title="Cultura", Lifetime
 https://edge5-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
@@ -165,9 +165,9 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT Series" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" audio-track="spa" group-title="Cine y series", TNT Series
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" audio-track="spa" group-title="Cine y series", AXN
+#EXTINF:-1 tvg-id="AXN.(Argentina).(AXN).ar" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" audio-track="spa" group-title="Cine y series", AXN
 https://edge5-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" audio-track="spa" group-title="Cine y series", AMC
+#EXTINF:-1 tvg-id="AMC.(South).(AMC).ar" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" audio-track="spa" group-title="Cine y series", AMC
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1 tvg-id="TCMArgentina.ar" tvg-name="TCM" tvg-logo="https://2.bp.blogspot.com/-bkswdpgxFB0/VmDUeL-NFvI/AAAAAAAAANU/hodMmMqCy4U/s1600/TCM.jpg" group-title="Cine y series", TCM
 https://edge5-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
