@@ -5,7 +5,7 @@
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="002" tvg-name="ATV Argentina" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/02-ATV.png" group-title="Nacional", ATV Argentina
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png" group-title="Nacional", Canal Encuentro
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png" group-title="Nacional", Encuentro
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
@@ -53,29 +53,29 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/25-GarageTV.png" group-title="Nacional", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="060" tvg-name="DW Espanol" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Internacional", DW Español
+#EXTINF:-1 tvg-id="060" tvg-name="DW Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/26-DWes.png" group-title="Internacional", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="061" tvg-name="Euronews Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/320px-Euronews_2016_logo.svg.png" group-title="Internacional", Euronews Español
+#EXTINF:-1 tvg-id="061" tvg-name="Euronews Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/27-EuronewsEs.png" group-title="Internacional", Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="062" tvg-name="France 24 Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/254px-France24.png" group-title="Internacional", France 24 Español
+#EXTINF:-1 tvg-id="062" tvg-name="France 24 Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/28-France24es.png" group-title="Internacional", France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="066" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="Internacional", CNN Internacional
+#EXTINF:-1 tvg-id="066" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/29-CNNInt.png" group-title="Internacional", CNN Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="060" tvg-name="Rai News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/320px-Rai_News_24_logo_%282022%29.svg.png" group-title="Internacional", Rai News 24
+#EXTINF:-1 tvg-id="060" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/30-RaiNews24.png" group-title="Internacional", Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="064" tvg-name="A3Series Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/320px-Atreseries_2020_logo.svg.png" group-title="Internacional", A3Series Internacional
+#EXTINF:-1 tvg-id="064" tvg-name="A3Series Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/31-A3SeriesInt.png" group-title="Internacional", A3Series Internacional
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-#EXTINF:-1 tvg-id="060" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/320px-Atrescine_logo.svg.png" group-title="Internacional", A3Cine
+#EXTINF:-1 tvg-id="060" tvg-name="A3Cine" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/32-A3Cine.png" group-title="Internacional", A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="066" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="Internacional", La 2
+#EXTINF:-1 tvg-id="066" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/33-La2.png" group-title="Internacional", La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="063" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/278px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Internacional", Caracol
+#EXTINF:-1 tvg-id="063" tvg-name="Caracol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/34-CaracolInt.png" group-title="Internacional", Caracol Internacional
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/284px-Telemundo_logo_2018.svg.png" group-title="Internacional", Telemundo
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png" group-title="Internacional", Telemundo Internacional
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tll_149xtt
-#EXTINF:-1 tvg-id="066" tvg-name="Canal 13" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece-Nuevo.png" group-title="Internacional", Canal 13 Py
+#EXTINF:-1 tvg-id="066" tvg-name="Canal 13 Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/36-TrecePy.png" group-title="Internacional", Canal 13 Py
 http://174.138.118.252/live/trece.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="066" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" group-title="Internacional", ABC Py
+#EXTINF:-1 tvg-id="066" tvg-name="ABC Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/37-ABCPy.png" group-title="Internacional", ABC Py
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Infantil", Paka Paka
