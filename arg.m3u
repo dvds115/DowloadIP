@@ -34,23 +34,23 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png" group-title="Nacional", América TV
 https://edge5-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-#EXTINF:-1 tvg-id="Canal2.ar" tvg-name="Canal 2 Posadas" tvg-logo="https://www.canal2misiones.com.ar/img/logo.png" group-title="Provincial", Canal 2 Posadas
+#EXTINF:-1 tvg-id="Canal2.ar" tvg-name="Canal 2 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/17-Canal2.png" group-title="Provincial", Canal 2 Posadas
 https://nd106.republicaservers.com:4433/canal2misioness.mp4
-#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-name="Canal 4 Posadas" tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="Provincial", Canal 4 Posadas
+#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-name="Canal 4 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/18-Canal4.png" group-title="Provincial", Canal 4 Posadas
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="050" tvg-name="Misiones 4" tvg-logo="https://pbs.twimg.com/profile_images/847859061911638016/3XTouZsf_400x400.jpg" group-title="Provincial", Misiones 4 [SD]
+#EXTINF:-1 tvg-id="050" tvg-name="Misiones 4" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/19-Misiones4.png" group-title="Provincial", Misiones 4 [SD]
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="052" tvg-name="Canal 6 Posadas" tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="Provincial", Canal 6 Posadas
+#EXTINF:-1 tvg-id="052" tvg-name="Canal 6 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/20-Canal6.png" group-title="Provincial", Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="050" tvg-name="Canal 9 Norte" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png" group-title="Provincial", Canal 9 Norte
+#EXTINF:-1 tvg-id="050" tvg-name="Canal 9 Norte" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/21-CanalNorte.png" group-title="Provincial", Canal 9 Norte
 https://panel.dattalive.com/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="http://canal12misiones.com/wp-content/uploads/2019/12/logo_horiz_solo_img-removebg-preview.png" group-title="Provincial", Canal 12 Posadas [No Disponible]
+#EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/22-Canal12.png" group-title="Provincial", Canal 12 Posadas [No Disponible]
 https://vmf.edge-apps.net/embed/live.php?streamname=c12_live01-100129&autoplay=true
-#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-name="Ciudad TV Chaco" tvg-logo="https://lh3.googleusercontent.com/-xpM6zPNOueI/X1TJk6tTtcI/AAAAAAAA5Tk/yDHQTroLl4kKkYaPT-7umsQVP_uaARPMACK8BGAsYHg/s0/2020-09-06.jpg" group-title="Provincial", Ciudad TV Resistencia
+#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-name="Ciudad TV Chaco" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/23-Ciudadtv.png" group-title="Provincial", Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg" group-title="Nacional", Canal Rural
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/24-CanalRural.png" group-title="Nacional", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="Garage TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Garage TV
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/25-GarageTV.png" group-title="Nacional", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="060" tvg-name="DW Espanol" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Internacional", DW Español
