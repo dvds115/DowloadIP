@@ -3,35 +3,35 @@
 
 #EXTINF:-1 tvg-id="001" tvg-name="Acequia" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/01-Acequia.png" group-title="Nacional", Acequia
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="002" tvg-name="ATV Argentina" tvg-logo="https://i2.paste.pics/4e64ef1ad0267a25797ca662d9010e2a.png" group-title="Nacional", ATV Argentina
+#EXTINF:-1 tvg-id="002" tvg-name="ATV Argentina" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/02-ATV.png" group-title="Nacional", ATV Argentina
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/309px-Logo_del_canal_Encuentro.svg.png" group-title="Nacional", Encuentro
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Canal Encuentro" "https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png" group-title="Nacional", Encuentro
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Nacional", Net TV
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Nacional", Telemax (TLX)
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/05-Telemax.png" group-title="Nacional", Telemax (TLX)
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Nacional", Canal 26
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png" group-title="Nacional", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="Nacional", C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/07-C5N.png" group-title="Nacional", C5N
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Nacional" audio-track="spa", TV Pública (TVP)
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png" group-title="Nacional" audio-track="spa", TV Pública (TVP)
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://www.utpba.org/wp-content/uploads/2020/08/C1-660x330.jpg" group-title="Nacional", Cronica TV
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/09-Cronica.png" group-title="Nacional", Cronica TV
 https://edge5-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/640px-TN_todo_noticias_logo.svg.png" group-title="Nacional", Todo Noticias (TN)
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/10-TN.png" group-title="Nacional", Todo Noticias (TN)
 https://edge5-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="Nacional", A24 (América 24)
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/11-a24.png" group-title="Nacional", A24 (América 24)
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
-#EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/320px-La-Nacion-Mas-Logo.svg.png" group-title="Nacional", La Nación+
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/12-LN%2B.png" group-title="Nacional", La Nación+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GZEwdVV5DTY
-#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Nacional" audio-track="spa", Telefe
+#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/13-Telefe.png" group-title="Nacional" audio-track="spa", Telefe
 https://edge5-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-#EXTINF:-1 tvg-id="ElTreceInternacional.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/219px-Canal13_logo.png" group-title="Nacional" audio-track="spa", El Trece
+#EXTINF:-1 tvg-id="ElTreceInternacional.ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/14-Eltrece.png" group-title="Nacional" audio-track="spa", El Trece
 https://edge5-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/365px-Canal_9_2015.png" group-title="Nacional" audio-track="spa", El Nueve
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/15-Elnueve.png" group-title="Nacional" audio-track="spa", El Nueve
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/457px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Nacional", América TV
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png" group-title="Nacional", América TV
 https://edge5-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.ar" tvg-name="Canal 2 Posadas" tvg-logo="https://www.canal2misiones.com.ar/img/logo.png" group-title="Provincial", Canal 2 Posadas
