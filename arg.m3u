@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_AR1.xml.gz" tv-test="TV Argentina.m3u"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://github.com/epgshare01/share01/blob/master/epg_ripper_AR1.xml.gz" tv-test="TV Argentina.m3u"
 
 
 #EXTINF:-1 tvg-id="001" tvg-name="Acequia" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/01-Acequia.png" group-title="Nacional", Acequia
