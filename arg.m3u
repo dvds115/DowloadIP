@@ -5,8 +5,8 @@
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="002" tvg-name="ATV Argentina" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/02-ATV.png" group-title="Nacional", ATV Argentina
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Encuentro.(ENCU).ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png" group-title="Nacional", Encuentro [No Disponible]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZpD9xcfUVAQ
+#EXTINF:-1 tvg-id="Encuentro.(ENCU).ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png" group-title="Nacional", Encuentro
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NET.HDTV.(NETHD).ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telemax.(TLMAX).ar" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/05-Telemax.png" group-title="Nacional", Telemax (TLX)
