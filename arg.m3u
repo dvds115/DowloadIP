@@ -5,7 +5,7 @@
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="002" tvg-name="ATV Argentina" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/02-ATV.png" group-title="Nacional", ATV Argentina
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Encuentro.(ENCU).ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png" group-title="Nacional", Encuentro
+#EXTINF:-1 tvg-id="Encuentro.(ENCU).ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png" group-title="Nacional", Encuentro [No Disponible]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZpD9xcfUVAQ
 #EXTINF:-1 tvg-id="NET.HDTV.(NETHD).ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
@@ -80,7 +80,7 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 
 #EXTINF:-1 tvg-id="Pakapaka.(PAKAPAKA).ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/38-PakaPaka.png" group-title="Infantil", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/39-AZTV.png" group-title="Infantil", Anime Zone TV [No Disponible]
+#EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/39-AZTV.png" group-title="Infantil", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Argentina).(TOON).ar" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/40-CartoonNetwork.png" group-title="Infantil", Cartoon Network
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
