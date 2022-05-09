@@ -117,6 +117,8 @@ https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/Ani
 https://edge5-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/55-ID.png" audio-track="spa" group-title="Cultura", Investigation Discovery (ID)
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/55-ID.png" audio-track="spa" group-title="Cultura", Tru TV
+https://edge3.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.LD.(DEPORTV).ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png" tvg-description="Deportivo" group-title="Deportes", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
