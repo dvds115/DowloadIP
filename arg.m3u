@@ -14,7 +14,7 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png" group-title="Nacional", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/07-C5N.png" group-title="Nacional", C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/-vGhSrfKfUQ
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Sn1lUGFL1Pw
 #EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-name="TV Publica" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png" group-title="Nacional" audio-track="spa", TV Pública (TVP)
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-id="Crónica.TV./.Canal.(CRONTV).ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/09-Cronica.png" group-title="Nacional", Cronica TV
@@ -72,7 +72,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="CaracolTVInternacional.co" tvg-name="Caracol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/34-CaracolInt.png" group-title="Internacional", Caracol Internacional
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).ar" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png" group-title="Internacional", Telemundo Internacional
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tll_149xtt
+https://h5.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjIgNTowNTo0MSBBTSZoYXNoX3ZhbHVlPTlrR0hzb21JWVl1Y3NGTVRZR1hpdlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Canal 13 Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/36-TrecePy.png" group-title="Internacional", Canal 13 Py
 http://174.138.118.252/live/trece.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/37-ABCPy.png" group-title="Internacional", ABC Py
