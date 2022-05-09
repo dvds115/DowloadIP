@@ -201,6 +201,8 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/287px-Logo_tlnovelas_feb2019.png" audio-track="spa" group-title="Telenovelas", Tlnovelas [SD]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
+#EXTINF:-1 tvg-id="351" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/287px-Logo_tlnovelas_feb2019.png" audio-track="spa" group-title="Telenovelas", Glitz
+https://edge-mix01-cte.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
 
 #EXTINF:-1 tvg-id="¡Hola!.TV.(USA).(HOLA).ar" tvg-name="Hola TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/320px-%C2%A1HOLA%21TVlogo.jpg" audio-track="spa" group-title="Espectáculo", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
