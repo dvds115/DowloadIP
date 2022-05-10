@@ -117,12 +117,12 @@ https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/Ani
 https://edge5-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/55-ID.png" audio-track="spa" group-title="Cultura", Investigation Discovery (ID)
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
-#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/70-A%26E.png" audio-track="spa" group-title="Cultura", A&E
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/70-A%26E.png" audio-track="spa" group-title="Cultura", A&E
 https://edge3.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/71-TruTV.png" audio-track="spa" group-title="Estilo De Vida", Tru TV [SD]
 https://edge3.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV.LD.(DEPORTV).ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png" tvg-description="Deportivo" group-title="Deportes", DEPORTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png" tvg-description="Deportivo" group-title="Deportes", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png" tvg-description="Deportivo" group-title="Deportes", ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
