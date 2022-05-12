@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_AR1.xml.gz,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://media.githubusercontent.com/media/epgshare01/share01/master/epg_ripper_AR1.xml.gz,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
 
 
 #EXTINF:-1 tvg-id="001" tvg-name="Acequia" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/01-Acequia.png" group-title="Nacional", Acequia
