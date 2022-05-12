@@ -14,7 +14,7 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png" group-title="Nacional", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/07-C5N.png" group-title="Nacional", C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Sn1lUGFL1Pw
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/hD02TlIxHsY
 #EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-name="TV Publica" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png" group-title="Nacional" audio-track="spa", TV Pública (TVP)
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/09-Cronica.png" group-title="Nacional", Cronica TV
@@ -59,6 +59,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="France 24 Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/28-France24es.png" group-title="Internacional", France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/29-CNNInt.png" group-title="Internacional", CNN en Español
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/29-CNNInt.png" group-title="Internacional", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Rai.Italia.Nord.America.(RAI).ar" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/30-RaiNews24.png" group-title="Internacional", Rai News 24
@@ -78,7 +80,7 @@ http://174.138.118.252/live/trece.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/37-ABCPy.png" group-title="Internacional", ABC Py
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVGloboInternacionalAmericas.br" tvg-name="Globo TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/69-GloboTV.png" group-title="Internacional", Globo TV
-http://s846397078.mialojamiento.es/w2jy/mp.php/https://gintna100.tulix.tv/gin_live/globo/522e247e37dffae05ce2ee5d1a7dac53/627c03d8/index.m3u8
+https://live-as-03-25.video.globo.com/h/0401652402114414231864816523157143392728802fq7w5MEgpPQTSaO39rE_zQ/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.(PAKAPAKA).ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/38-PakaPaka.png" group-title="Infantil", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
@@ -126,7 +128,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?Playlist
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.(Argentina).(ESPN.2).ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png" tvg-description="Deportivo" group-title="Deportes", ESPN2
 https://edge5-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png" tvg-description="Deportivo" group-title="Deportes", ESPN3
+#EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png" tvg-description="Deportivo" group-title="Deportes", ESPN3 [No Disponible]
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="ESPN4" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/60-ESPN4.png" tvg-description="Deportivo" group-title="Deportes", ESPN4
 https://edge5-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
