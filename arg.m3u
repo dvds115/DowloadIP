@@ -213,7 +213,7 @@ https://edge-mix01-cte.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SA
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-name="Más Chic" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Estilo De Vida", Más Chic
 https://edge-mix01-res.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
 #EXTINF:-1 tvg-id="TruTVAmericaLatina.us" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/71-TruTV.png" audio-track="spa" group-title="Estilo De Vida", Tru TV [SD]
-https://edge3.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="Music Top" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/102-MusicTop.png" group-title="Música", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
