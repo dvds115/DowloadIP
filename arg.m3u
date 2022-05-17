@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://media.githubusercontent.com/media/epgshare01/share01/master/epg_ripper_AR1.xml.gz,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
 
 
-#EXTINF:-1 tvg-id="001" tvg-name="Acequia" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/01-Acequia.png" group-title="Nacional", Acequia
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="002" tvg-name="ATV Argentina" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/02-ATV.png" group-title="Nacional", ATV Argentina
-https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="001" tvg-name="Tierramia TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/106-TierramiaTV.png" group-title="Música", Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="002" tvg-name="KZO TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/107-KZO.png" group-title="Nacional", KZO TV
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png" group-title="Nacional", Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png" group-title="Nacional", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/05-Telemax.png" group-title="Nacional", Telemax (TLX)
-https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png" group-title="Nacional", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/07-C5N.png" group-title="Nacional", C5N
@@ -43,13 +43,13 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="052" tvg-name="Canal 6 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/20-Canal6.png" group-title="Provincial", Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="050" tvg-name="Canal 9 Norte" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/21-CanalNorte.png" group-title="Provincial", Canal 9 Norte
-https://panel.dattalive.com/8076/8076/playlist.m3u8?PlaylistM3UCL
+https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/22-Canal12.png" group-title="Provincial", Canal 12 Posadas [No Disponible]
 https://vmf.edge-apps.net/embed/live.php?streamname=c12_live01-100129&autoplay=true
-#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-name="Ciudad TV Chaco" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/23-Ciudadtv.png" group-title="Provincial", Ciudad TV Resistencia
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Argentinisima Satelital" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/108-ArgentinisimaSat.png" group-title="Nacional", Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
 #EXTINF:-1 tvg-id="Canal.Rural.Satelital.(RURAL).ar" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/24-CanalRural.png" group-title="Nacional", Canal Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/25-GarageTV.png" group-title="Nacional", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -65,12 +65,12 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_e
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Rai.Italia.Nord.America.(RAI).ar" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/30-RaiNews24.png" group-title="Internacional", Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Atreseries.(ATRES).ar" tvg-name="A3Series Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/31-A3SeriesInt.png" group-title="Internacional", A3Series Internacional
-https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-id="Atrecine.es" tvg-name="A3Cine" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/32-A3Cine.png" group-title="Internacional", A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/33-La2.png" group-title="Internacional", La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8?PlaylistM3UCL
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png" group-title="Internacional", Telemundo Internacional
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tll_02xtt
 #EXTINF:-1 tvg-id="CaracolTVInternacional.co" tvg-name="Caracol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/34-CaracolInt.png" group-title="Internacional", Caracol Internacional
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/68-Telesur.png" group-title="Internacional", Telesur
@@ -80,12 +80,12 @@ http://174.138.118.252/live/trece.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/37-ABCPy.png" group-title="Internacional", ABC Py
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVGloboInternacionalAmericas.br" tvg-name="Globo TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/69-GloboTV.png" group-title="Internacional", Globo TV
-https://live-as-08-24.video.globo.com/h/0401652661776159829956416525753761347995092ZqbO7mVdZmmNKAh-QkPqDw/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
+https://live-as-08-24.video.globo.com/h/0401652834205160201299816527478056633211735DYrI3-rgTgNP8nFPWpQ2eQ/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.(PAKAPAKA).ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/38-PakaPaka.png" group-title="Infantil", Paka Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/4cKKiWuIs1Q
 #EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/39-AZTV.png" group-title="Infantil", Anime Zone TV
-http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Argentina).(TOON).ar" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/40-CartoonNetwork.png" group-title="Infantil", Cartoon Network
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.(Latin.America./.South).(NICK).ar" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/41-Nick.png" group-title="Infantil", Nickelodeon
