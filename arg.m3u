@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://media.githubusercontent.com/media/epgshare01/share01/master/epg_ripper_AR1.xml.gz,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_AR1.xml.gz,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
 
 
 #EXTINF:-1 tvg-id="001" tvg-name="Tierramia TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/106-TierramiaTV.png" group-title="Música", Tierramia TV
@@ -46,7 +46,7 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/22-Canal12.png" group-title="Provincial", Canal 12 Posadas [No Disponible]
 https://vmf.edge-apps.net/embed/live.php?streamname=c12_live01-100129&autoplay=true
-#EXTINF:-1 tvg-id="" tvg-name="Argentinisima Satelital" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/108-ArgentinisimaSat.png" group-title="Nacional", Argentinisima Satelital
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/108-ArgentinisimaSat.png" group-title="Nacional", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
 #EXTINF:-1 tvg-id="Canal.Rural.Satelital.(RURAL).ar" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/24-CanalRural.png" group-title="Nacional", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
@@ -69,9 +69,9 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/33-La2.png" group-title="Internacional", La 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png" group-title="Internacional", Telemundo Internacional
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png" group-title="Internacional", Telemundo Internacional
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tll_02xtt
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/109-LasEstrellas.png" group-title="Internacional", Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/109-LasEstrellas.png" group-title="Internacional", Las Estrellas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/2cdmx39tx
 #EXTINF:-1 tvg-id="CaracolTVInternacional.co" tvg-name="Caracol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/34-CaracolInt.png" group-title="Internacional", Caracol Internacional
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
