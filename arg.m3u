@@ -70,9 +70,9 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/33-La2.png" group-title="Internacional", La 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png" group-title="Internacional", Telemundo Internacional
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tll_02xtt
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tll_103xtt
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/109-LasEstrellas.png" group-title="Internacional", Las Estrellas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/2cdmx39tx
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/2cdmx41tx
 #EXTINF:-1 tvg-id="CaracolTVInternacional.co" tvg-name="Caracol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/34-CaracolInt.png" group-title="Internacional", Caracol Internacional
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/68-Telesur.png" group-title="Internacional", Telesur
@@ -82,7 +82,7 @@ http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/37-ABCPy.png" group-title="Internacional", ABC Py
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 #EXTINF:-1 tvg-id="TVGloboInternacionalAmericas.br" tvg-name="Globo TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/69-GloboTV.png" group-title="Internacional", Globo TV
-https://live-as-08-24.video.globo.com/h/0401652834205160201299816527478056633211735DYrI3-rgTgNP8nFPWpQ2eQ/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
+https://live-as-09-18.video.globo.com/h/0401653007522102635228816529211221502146600dyhtux38E8Act2Kag_-8gQ/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.(PAKAPAKA).ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/38-PakaPaka.png" group-title="Infantil", Paka Paka
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/4cKKiWuIs1Q
@@ -111,7 +111,7 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTu
 https://edge5-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1 tvg-id="The.History.Channel.(Argentina).(THC).ar" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/50-History.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", History
 https://edge5-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
-#EXTINF:-1 tvg-id="History.2.(Latin.America).(H2).ar" tvg-name="History II" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/51-History2.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", History II
+#EXTINF:-1 tvg-id="History.2.(Latin.America).(H2).ar" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/51-History2.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", History 2
 https://edge5-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.Channel.(PAL./.Argentina).(NGC).ar" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/52-NatGeo.png" tvg-description="Cultural" audio-track="spa" group-title="Cultura", National Geographic
 https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
@@ -125,14 +125,14 @@ https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png" tvg-description="Deportivo" group-title="Deportes", DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Sj_9osRoQz4
 #EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png" tvg-description="Deportivo" group-title="Deportes", ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.(Argentina).(ESPN.2).ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png" tvg-description="Deportivo" group-title="Deportes", ESPN2
+#EXTINF:-1 tvg-id="ESPN.2.(Argentina).(ESPN.2).ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png" tvg-description="Deportivo" group-title="Deportes", ESPN 2
 https://edge5-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png" tvg-description="Deportivo" group-title="Deportes", ESPN3
+#EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png" tvg-description="Deportivo" group-title="Deportes", ESPN 3
 https://edge10-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="ESPN4" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/60-ESPN4.png" tvg-description="Deportivo" group-title="Deportes", ESPN4
+#EXTINF:-1 tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="ESPN4" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/60-ESPN4.png" tvg-description="Deportivo" group-title="Deportes", ESPN 4
 https://edge5-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="ESPN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/61-ESPN%2B.png" tvg-description="Deportivo" group-title="Deportes", ESPN Extra
 https://edge5-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
@@ -144,9 +144,9 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_H
 https://edge5-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-name="FOX Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/65-FoxSports.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports
 https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).ar" tvg-name="FOX Sports II" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports2.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports II
+#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).ar" tvg-name="FOX Sports 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports2.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports 2
 https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).ar" tvg-name="FOX Sports III" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports3.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports III
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).ar" tvg-name="FOX Sports 3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports3.png" tvg-description="Deportivo" group-title="Deportes", FOX Sports 3
 https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/67-BeinSportsXtraN.png" tvg-description="Deportivo" group-title="Deportes", Bein Sports Xtra Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
@@ -159,7 +159,7 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1 tvg-id="HBO.Latin.America.(East).(HBO).ar" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/75-HBO.png" audio-track="spa" group-title="Cine y series", HBO
 https://edge5-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO II" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/76-HBO2.png" audio-track="spa" group-title="Cine y series", HBO II
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/76-HBO2.png" audio-track="spa" group-title="Cine y series", HBO 2
 https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 #EXTINF:-1 tvg-id="HBO.Plus.(Panamericano).(HBO+).ar" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/77-HBO%2B.png" group-title="Cine y series", HBO Plus
 https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
@@ -201,9 +201,9 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.
 #EXTINF:-1 tvg-id="Elgourmet.com.(Sur).(G).ar" tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/95-ElGourmet.png" audio-track="spa" group-title="Gastronómico", El Gourmet
 https://edge5-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
-#EXTINF:-1 tvg-id="Pasiones.(LTAM).(PASN).ar" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/96-Pasiones.png" audio-track="spa" group-title="Telenovelas", Pasiones
+#EXTINF:-1 tvg-id="Pasiones.(LTAM).(PASN).ar" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/96-Pasiones.png" audio-track="spa" group-title="Telenovelas", Pasiones [SD]
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
-#EXTINF:-1 tvg-id="TlnovelasAmerica.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/97-TLN.png" audio-track="spa" group-title="Telenovelas", Tlnovelas [SD]
+#EXTINF:-1 tvg-id="TlnovelasAmerica.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/97-TLN.png" audio-track="spa" group-title="Telenovelas", Tlnovelas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
 #EXTINF:-1 tvg-id="GlitzLatinAmerica.us" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/98-Glitz.png" audio-track="spa" group-title="Estilo De Vida", Glitz [SD]
 https://edge-mix01-cte.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
