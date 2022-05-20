@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_AR1.xml.gz,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml" tv-test="TV Argentina.m3u"
 
 
-#EXTINF:-1 tvg-id="001" tvg-name="Tierramia TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/106-TierramiaTV.png" group-title="Música", Tierramia TV
+#EXTINF:-1 tvg-id="TierramiaTV.ar" tvg-name="Tierramia TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/106-TierramiaTV.png" group-title="Música", Tierramia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="002" tvg-name="KZO TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/107-KZO.png" group-title="Nacional", KZO TV
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e.m3u8
@@ -126,9 +126,9 @@ https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png" tvg-description="Deportivo" group-title="Deportes", DEPORTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Sj_9osRoQz4
-#EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png" tvg-description="Deportivo" group-title="Deportes", ESPN
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png" tvg-description="Deportivo" group-title="Deportes", ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.(Argentina).(ESPN.2).ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png" tvg-description="Deportivo" group-title="Deportes", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2Andes.ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png" tvg-description="Deportivo" group-title="Deportes", ESPN 2
 https://edge5-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png" tvg-description="Deportivo" group-title="Deportes", ESPN 3
 https://edge10-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
