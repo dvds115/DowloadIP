@@ -44,8 +44,8 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?PlaylistM3UCL
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="050" tvg-name="Canal 9 Norte" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/21-CanalNorte.png" group-title="Provincial", Canal 9 Norte
 https://panel.dattalive.com/8076/8076/playlist.m3u8
-#EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/22-Canal12.png" group-title="Provincial", Canal 12 Posadas [No Disponible]
-https://vmf.edge-apps.net/embed/live.php?streamname=c12_live01-100129&autoplay=true
+#EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/22-Canal12.png" group-title="Provincial", Canal 12 Posadas
+https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/108-ArgentinisimaSat.png" group-title="Nacional", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
 #EXTINF:-1 tvg-id="Canal.Rural.Satelital.(RURAL).ar" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/24-CanalRural.png" group-title="Nacional", Canal Rural
@@ -70,9 +70,9 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/33-La2.png" group-title="Internacional", La 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png" group-title="Internacional", Telemundo Internacional
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tll_103xtt
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/109-LasEstrellas.png" group-title="Internacional", Las Estrellas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/2cdmx41tx
+http://edge1-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="CaracolTVInternacional.co" tvg-name="Caracol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/34-CaracolInt.png" group-title="Internacional", Caracol Internacional
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/68-Telesur.png" group-title="Internacional", Telesur
@@ -209,7 +209,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
 https://edge-mix01-cte.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
 
 #EXTINF:-1 tvg-id="¡Hola!.TV.(USA).(HOLA).ar" tvg-name="Hola TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/99-HolaTV.png" audio-track="spa" group-title="Espectáculo", Hola TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/100-E!.png" audio-track="spa" group-title="Espectáculo", E!
 https://edge-mix01-cte.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-name="Más Chic" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Estilo De Vida", Más Chic
