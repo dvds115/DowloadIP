@@ -85,7 +85,7 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/114-SNTPy.png", SNT
 http://edge-live12-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 #EXTINF:-1 tvg-id="TVGloboInternacionalAmericas.br" tvg-name="Globo TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/69-GloboTV.png", Globo TV
-https://live-as-08-24.video.globo.com/h/0401653437379145668002216533509791074273569MJ0QafQ_LtL9wLTPWXelGQ/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
+https://live-as-10-16.video.globo.com/h/0401653524077191380089516534376774798393004J5zT3EVwRqAHtL98xl-wfg/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/39-AZTV.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
@@ -135,9 +135,9 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png", DEPORTV
 https://edge5-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
-#EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png", ESPN
+#EXTINF:-1 tvg-id="ESPN.2.(Argentina).(ESPN.2).ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png", ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.(Argentina).(ESPN.2).ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png", ESPN 2
+#EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png", ESPN 2
 https://edge5-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png", ESPN 3
 https://edge10-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
