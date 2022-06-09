@@ -31,7 +31,7 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 https://edge5-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 #EXTINF:-1 tvg-id="Canal.Nueve.(CNL9).ar" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/15-Elnueve.png" audio-track="spa", El Nueve
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png", América TV
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png" RESOLUTION="640X480", América TV
 https://edge5-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.ar" tvg-name="Canal 2 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/17-Canal2.png", Canal 2
