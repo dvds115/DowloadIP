@@ -59,7 +59,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="euronews.(EUNEWS).ar" tvg-name="Euronews Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/27-EuronewsEs.png", Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="France 24 Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/28-France24es.png", France 24 Español
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8?PlaylistM3UCL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/XDJPzMznAjU
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN Español" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/110-CNNEspa%C3%B1ol.png", CNN en Español
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/29-CNNInt.png", CNN International
@@ -85,7 +85,7 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/114-SNTPy.png", SNT
 http://edge-live12-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 #EXTINF:-1 tvg-id="TVGloboInternacionalAmericas.br" tvg-name="Globo TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/69-GloboTV.png", Globo TV
-https://live-as-10-16.video.globo.com/h/0401653524077191380089516534376774798393004J5zT3EVwRqAHtL98xl-wfg/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
+https://live-as-01-18.video.globo.com/h/04016548200929015861183165473369225637741805LTcEIvLVO3L9jj_lN3aZw/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/39-AZTV.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
