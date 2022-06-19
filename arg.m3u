@@ -36,14 +36,6 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.ar" tvg-name="Canal 2 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/17-Canal2.png", Canal 2
 https://nd106.republicaservers.com:4433/canal2misioness.mp4
-#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-name="Canal 4 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/18-Canal4.png", Canal 4
-http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
-#EXTINF:-1 tvg-id="050" tvg-name="Misiones 4" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/19-Misiones4.png", Misiones 4 [SD]
-https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
-#EXTINF:-1 tvg-id="052" tvg-name="Canal 6 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/20-Canal6.png", Canal 6
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1 tvg-id="050" tvg-name="Canal 9 Norte" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/21-CanalNorte.png", Canal 9 Norte
-https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/22-Canal12.png", Canal 12
 https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/108-ArgentinisimaSat.png", Argentinisima Satelital
@@ -53,7 +45,10 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/25-GarageTV.png", Garage TV
 https://edge5-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_SAGEMCOM/El_Garage.m3u8
 
-
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/114-SNTPy.png", SNT
+http://edge-live12-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
+#EXTINF:-1 tvg-id="TVGloboInternacionalAmericas.br" tvg-name="Globo TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/69-GloboTV.png", Globo TV
+https://live-as-09-16.video.globo.com/nu/globo-df/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.Deutsch+.(DW.D+).ar" tvg-name="DW Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/26-DWes.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="euronews.(EUNEWS).ar" tvg-name="Euronews Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/27-EuronewsEs.png", Euronews Español
@@ -78,17 +73,7 @@ http://edge-vod02-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/68-Telesur.png", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 tvg-id="Trece.py" tvg-name="Canal 13 Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/36-TrecePy.png", Canal 13
-http://174.138.118.252/live/trece.m3u8
-#EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/37-ABCPy.png", ABC
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
-#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/114-SNTPy.png", SNT
-http://edge-live12-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
-#EXTINF:-1 tvg-id="TVGloboInternacionalAmericas.br" tvg-name="Globo TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/69-GloboTV.png", Globo TV
-https://live-as-01-18.video.globo.com/h/04016548200929015861183165473369225637741805LTcEIvLVO3L9jj_lN3aZw/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="101" tvg-name="Anime Zone TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/39-AZTV.png", Anime Zone TV
-http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.(PAKAPAKA).ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/38-PakaPaka.png" audio-track="spa", Paka Paka
 https://edge5-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Argentina).(TOON).ar" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/40-CartoonNetwork.png", Cartoon Network
