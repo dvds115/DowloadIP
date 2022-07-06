@@ -10,9 +10,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/05-Telemax.png", Telemax
-https://edge5-sl.cvattv.com.ar/live/c6eds/Telemax/SA_SAGEMCOM/Telemax.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png", Canal 26
-https://edge5-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/07-C5N.png", C5N
 https://edge5-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 #EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-name="TV Publica" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png" audio-track="spa", TV Pública
