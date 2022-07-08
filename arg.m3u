@@ -131,7 +131,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="ESPN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/61-ESPN%2B.png", ESPN Extra
 https://edge1.prepro.cvattv.com.ar/live/live/ESPNHD/SA_Live_WebVTT_FTA/ESPNHD.m3u8
 #EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png", TyC Sports
-https://edge1.prepro.cvattv.com.ar/live/vod/TyCSports/SA_Live_WebVTT_FTA/TyCSports.m3u8
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.HDTV.(TNTSP).ar" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/63-TNTSports.png", TNT Sports
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/64-ESPNPremium.png", ESPN Premium
