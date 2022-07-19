@@ -121,11 +121,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png", DEPORTV
 
 #EXTINF:-1 tvg-id="ESPN.2.(Argentina).(ESPN.2).ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png", ESPN
-
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png", ESPN 2
-
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png", ESPN 3
-
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="ESPN4" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/60-ESPN4.png", ESPN 4
 
 #EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="ESPN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/61-ESPN%2B.png", ESPN Extra
@@ -133,13 +133,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
 #EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png", TyC Sports
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.HDTV.(TNTSP).ar" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/63-TNTSports.png", TNT Sports
-https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/64-ESPNPremium.png", ESPN Premium
-
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 #EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-name="FOX Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/65-FoxSports.png", FOX Sports
-
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).ar" tvg-name="FOX Sports 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports2.png", FOX Sports 2
-
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).ar" tvg-name="FOX Sports 3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports3.png", FOX Sports 3
 
 #EXTINF:-1 tvg-id="" tvg-name="America Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/117-AmericaSports.png" tvg-description="Deportivo", América Sports
