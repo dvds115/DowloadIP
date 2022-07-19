@@ -30,7 +30,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/xt_t409r
 #EXTINF:-1 tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/14-Eltrece.png" audio-track="spa", El Trece
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/912k_wttx
 #EXTINF:-1 tvg-id="Canal.Nueve.(CNL9).ar" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/15-Elnueve.png" audio-track="spa", El Nueve
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/639_argtv3
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png", América TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ft10x08k
 
