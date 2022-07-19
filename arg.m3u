@@ -56,19 +56,19 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="France 24 Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/28-France24es.png", France 24 Español
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/XDJPzMznAjU
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN Español" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/110-CNNEspa%C3%B1ol.png", CNN en Español
-https://edge1.prepro.cvattv.com.ar/live/live/CNN_en_Espanol/SA_Live_WebVTT_FTA/CNN_en_Espanol.m3u8
+
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/29-CNNInt.png", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai.Italia.Nord.America.(RAI).ar" tvg-name="Rai Italia" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/111-Raitalia.png", Rai Italia
-https://edge1.prepro.cvattv.com.ar/live/vod/RAI/SA_Live_WebVTT_FTA/RAI.m3u8
+
 #EXTINF:-1 tvg-id="Antena.3.(Internacional).(ANTENA.3).ar" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/112-Antena3.png" audio-track="spa", Antena 3
 
 #EXTINF:-1 tvg-id="Eurochannel.(EUROCHN).ar" tvg-name="Euro Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/113-EuroChannel.png" audio-track="spa", Euro Channel
-https://edge1.prepro.cvattv.com.ar/live/live/Eurochannel/SA_Live_WebVTT_FTA/Eurochannel.m3u8
-#EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).ar" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png", Telemundo Internacional
 
+#EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).ar" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png", Telemundo Internacional
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tl_122vfl
 #EXTINF:-1 tvg-id="Las.Estrellas.(ESTRELLA).ar" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/109-LasEstrellas.png", Las Estrellas
-https://edge1.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
+
 #EXTINF:-1 tvg-id="CaracolTVInternacional.co" tvg-name="Caracol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/34-CaracolInt.png", Caracol Internacional
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/68-Telesur.png", Telesur
@@ -77,73 +77,73 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.(PAKAPAKA).ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/38-PakaPaka.png" audio-track="spa", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Argentina).(TOON).ar" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/40-CartoonNetwork.png", Cartoon Network
-https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/111kkctoon
 #EXTINF:-1 tvg-id="Nickelodeon.(Latin.America./.South).(NICK).ar" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/41-Nick.png", Nickelodeon
-https://edge1.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/teen013
 #EXTINF:-1 tvg-id="Disney.en.Español.(South.Feed).(DISNEY).ar" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/42-Disney.png", Disney Channel
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dk_0150
 #EXTINF:-1 tvg-id="Discovery.Kids.(Latin.America).(DSCKDS).ar" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/43-DiscoveryKids.png", Discovery Kids
 
 #EXTINF:-1 tvg-id="Nick.Jr..(NICKJR).ar" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/44-NickJr.png" audio-track="spa", Nick Jr
 
 #EXTINF:-1 tvg-id="Disney.Junior.(South.feed).(DISJR).ar" tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/45-DisneyJr.png" audio-track="spa", Disney Jr
-https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
+
 #EXTINF:-1 tvg-id="Cartoonito.(Latin.America).(CTNO).ar" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/115-Cartoonito.png" audio-track="spa", Cartoonito
-https://edge1.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
+
 
 #EXTINF:-1 tvg-id="The.Discovery.Channel.(Argentina).(DSC).ar" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/46-Discovery.png" audio-track="spa", Discovery Channel
-https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83
 #EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery TLC" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/47-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa", Discovery TLC
-https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
-#EXTINF:-1 tvg-id="Discovery.Turbo.International.(DTUR).ar" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/48-DiscoveryTurbo.png" tvg-description="Cultural" audio-track="spa", Discovery Turbo
-https://edge1.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
-#EXTINF:-1 tvg-id="Discovery.Home.and.Health.(Argentina).(DH.and.H).ar" tvg-name="Discovery H&H" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/49-DiscoveryH%26H.png" tvg-description="Cultural" audio-track="spa", Discovery H&H
-https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
-#EXTINF:-1 tvg-id="The.History.Channel.(Argentina).(THC).ar" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/50-History.png" tvg-description="Cultural" audio-track="spa", History
 
+#EXTINF:-1 tvg-id="Discovery.Turbo.International.(DTUR).ar" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/48-DiscoveryTurbo.png" tvg-description="Cultural" audio-track="spa", Discovery Turbo
+
+#EXTINF:-1 tvg-id="Discovery.Home.and.Health.(Argentina).(DH.and.H).ar" tvg-name="Discovery H&H" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/49-DiscoveryH%26H.png" tvg-description="Cultural" audio-track="spa", Discovery H&H
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt25
+#EXTINF:-1 tvg-id="The.History.Channel.(Argentina).(THC).ar" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/50-History.png" tvg-description="Cultural" audio-track="spa", History
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt
 #EXTINF:-1 tvg-id="History.2.(Latin.America).(H2).ar" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/51-History2.png" tvg-description="Cultural" audio-track="spa", History 2
-https://edge1.prepro.cvattv.com.ar/live/live/History_2/SA_Live_WebVTT_FTA/History_2.m3u8
+
 #EXTINF:-1 tvg-id="National.Geographic.Channel.(PAL./.Argentina).(NGC).ar" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/52-NatGeo.png" tvg-description="Cultural" audio-track="spa", National Geographic
-https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/rr_995rrr
 #EXTINF:-1 tvg-id="Animal.Planet.International.(Argentina).(ANIMAL).ar" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/53-AnimalPlanet.png" tvg-description="Cultural" audio-track="spa", Animal Planet
-https://edge1.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
+
 #EXTINF:-1 tvg-id="Lifetime.(Latin.America).(LIFETIME).ar" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/54-Lifetime.png" audio-track="spa", Lifetime
-https://edge1.prepro.cvattv.com.ar/live/live/Lifetime/SA_Live_WebVTT_FTA/Lifetime.m3u8
+
 #EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/55-ID.png" audio-track="spa", Investigation Discovery (ID)
-https://edge1.prepro.cvattv.com.ar/live/live/ID/SA_Live_WebVTT_FTA/ID.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
 #EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/70-A%26E.png" audio-track="spa", A&E
-https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+
 #EXTINF:-1 tvg-id="TBS.Sur.(TBS).ar" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/116-TBS.png" audio-track="spa", TBS
-https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+
 #EXTINF:-1 tvg-id="TruTVAmericaLatina.us" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/71-TruTV.png" audio-track="spa", Tru TV
-https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png", DEPORTV
-https://edge1.prepro.cvattv.com.ar/live/vod/DeporTVHD/SA_Live_WebVTT_FTA/DeporTVHD.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.2.(Argentina).(ESPN.2).ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png", ESPN
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png", ESPN 2
-https://edge-live15-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
+
 #EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png", ESPN 3
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="ESPN4" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/60-ESPN4.png", ESPN 4
 
 #EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="ESPN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/61-ESPN%2B.png", ESPN Extra
-https://edge1.prepro.cvattv.com.ar/live/live/ESPNHD/SA_Live_WebVTT_FTA/ESPNHD.m3u8
+
 #EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png", TyC Sports
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.HDTV.(TNTSP).ar" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/63-TNTSports.png", TNT Sports
 https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/64-ESPNPremium.png", ESPN Premium
-https://edge-live15-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
 #EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-name="FOX Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/65-FoxSports.png", FOX Sports
-http://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
 #EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).ar" tvg-name="FOX Sports 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports2.png", FOX Sports 2
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+
 #EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).ar" tvg-name="FOX Sports 3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports3.png", FOX Sports 3
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="America Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/117-AmericaSports.png" tvg-description="Deportivo", América Sports
-https://edge1.prepro.cvattv.com.ar/live/live/America_Sports/SA_Live_WebVTT_FTA/America_Sports.m3u8
+
 #EXTINF:-1 tvg-id="261" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/67-BeinSportsXtraN.png", Bein Sports Xtra Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png", Golf Channel
@@ -156,81 +156,81 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="Atrecine.es" tvg-name="A3Cine" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/32-A3Cine.png", A3 Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 #EXTINF:-1 tvg-id="Atreseries.(ATRES).ar" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/31-A3SeriesInt.png", A3 Series
-https://edge1.prepro.cvattv.com.ar/live/live/A3_Series/SA_Live_WebVTT_FTA/A3_Series.m3u8
+
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/73-StarChannel.png" audio-track="spa", Star Channel
-https://edge1.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/10ty05kl
 #EXTINF:-1 tvg-id="FX.Latin.America.(Argentina).(FX).ar" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/74-FX.png" audio-track="spa", FX
-https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Latin.America.(East).(HBO).ar" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/75-HBO.png" audio-track="spa", HBO
-https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/bfcx013
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/76-HBO2.png" audio-track="spa", HBO 2
-https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/doex19c
 #EXTINF:-1 tvg-id="HBO.Plus.(Panamericano).(HBO+).ar" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/77-HBO%2B.png", HBO Plus
-https://edge1.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Family.(Spanish).(HBOFAM).ar" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/78-HBOFamily.png" audio-track="spa", HBO Family
 
 #EXTINF:-1 tvg-id="Cinemax.(South).(CINEMAX).ar" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/79-Cinemax.png" audio-track="spa", Cinemax
-https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cc_x2t3x
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/80-Cinecanal.png" audio-track="spa", Cinecanal
-https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Latin.America.Argentina.(English).(TNT-I).ar" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/81-TNT.png" audio-track="spa", TNT
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yf_09ncv
 #EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/82-TNTSeries.png" audio-track="spa", TNT Series
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tt221qal
 #EXTINF:-1 tvg-id="AXN.(Argentina).(AXN).ar" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/83-AXN.png" audio-track="spa", AXN
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/atc155t
 #EXTINF:-1 tvg-id="AMC.(South).(AMC).ar" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/84-AMC.png" audio-track="spa", AMC
 
 #EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/85-TCM.png" audio-track="spa", TCM
-https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
+
 #EXTINF:-1 tvg-id="Syfy.(Latin.America).(Syfy).ar" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/86-Syfy.png" audio-track="spa", Syfy
-https://edge1.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
+
 #EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/87-Space.png" audio-track="spa", Space
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cb_x45ll
 #EXTINF:-1 tvg-id="Paramount.Network.(Latin.America).(PARAM).ar" tvg-name="Paramount Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/88-Paramount.png" audio-track="spa", Paramount Channel
-https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
-#EXTINF:-1 tvg-id="Studio.Universal.(Argentina).(STUNI).ar" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/89-StudioUniversal.png" audio-track="spa", Studio Universal
-https://edge1.prepro.cvattv.com.ar/live/live/Studio_Universal/SA_Live_WebVTT_FTA/Studio_Universal.m3u8
-#EXTINF:-1 tvg-id="Universal.Channel.(Argentina).(UNIVE).ar" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/90-UniversalTV.png" audio-track="spa", Universal TV
 
+#EXTINF:-1 tvg-id="Studio.Universal.(Argentina).(STUNI).ar" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/89-StudioUniversal.png" audio-track="spa", Studio Universal
+
+#EXTINF:-1 tvg-id="Universal.Channel.(Argentina).(UNIVE).ar" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/90-UniversalTV.png" audio-track="spa", Universal TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/uvch019
 #EXTINF:-1 tvg-id="Warner.Channel.(Argentina).(WARNER).ar" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/91-WarnerChannel.png" audio-track="spa", Warner Channel
-https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Argentina).(SONY).ar" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/92-SonyChannel.png" audio-track="spa", Sony Channel
 
 #EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/93-Volver.png", Volver
-https://edge1.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u8
+
 #EXTINF:-1 tvg-id="I-SAT.(Cono.Sur).(I-SAT).ar" tvg-name="i-Sat" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/120-iSat.png", i-Sat
-https://edge1.prepro.cvattv.com.ar/live/live/ISAT/SA_Live_WebVTT_FTA/ISAT.m3u8
+
 
 #EXTINF:-1 tvg-id="Food.Network.(Latin.America).(FOOD).ar" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/94-FoodNetwork.png", Food Network
-https://edge1.prepro.cvattv.com.ar/live/live/Food_Network/SA_Live_WebVTT_FTA/Food_Network.m3u8
+
 #EXTINF:-1 tvg-id="Elgourmet.com.(Sur).(G).ar" tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/95-ElGourmet.png" audio-track="spa", El Gourmet
-https://edge1.prepro.cvattv.com.ar/live/vod/Gourmet/SA_Live_WebVTT_FTA/Gourmet.m3u8
+
 
 #EXTINF:-1 tvg-id="Pasiones.(LTAM).(PASN).ar" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/96-Pasiones.png" audio-track="spa", Pasiones [SD]
 
 #EXTINF:-1 tvg-id="TlnovelasAmerica.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/97-TLN.png" audio-track="spa", Tlnovelas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
 #EXTINF:-1 tvg-id="GlitzLatinAmerica.us" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/98-Glitz.png" audio-track="spa", Glitz [SD]
-https://edge1.prepro.cvattv.com.ar/live/live/Glitz/SA_Live_WebVTT_FTA/Glitz.m3u8
+
 
 #EXTINF:-1 tvg-id="¡Hola!.TV.(USA).(HOLA).ar" tvg-name="Hola TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/99-HolaTV.png" audio-track="spa", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/100-E!.png" audio-track="spa", E!
-https://edge1.prepro.cvattv.com.ar/live/live/E_Entertainment_Television/SA_Live_WebVTT_FTA/E_Entertainment_Television.m3u8
+
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-name="Más Chic" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa", Más Chic
 
 
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="Music Top" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/102-MusicTop.png", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MTV.Latin.America.(South.Feed).(MTV).ar" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/103-MTV.png" audio-track="spa", MTV
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mbt144x
 #EXTINF:-1 tvg-id="Quiero.Música.(QUIERO).ar" tvg-name="Quiero" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/104-Quiero.png", Quiero Música
 
 #EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/121-Htv.png", HTV
-https://edge1.prepro.cvattv.com.ar/live/live/HTV/SA_Live_WebVTT_FTA/HTV.m3u8
+
 #EXTINF:-1 tvg-id="Canal.de.la.Música.(CMTV).ar" tvg-name="CM" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/122-CM.png", Canal de la Música
 
 #EXTINF:-1 tvg-id="Much.Music.(Latin.America).(MUCHLA).ar" tvg-name="Much Music" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/105-MuchMusic.png", Much Music
-https://edge1.prepro.cvattv.com.ar/live/vod/Much_Music/SA_Live_WebVTT_FTA/Much_Music.m3u8
+
 
