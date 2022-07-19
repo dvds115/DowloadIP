@@ -14,9 +14,9 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/07-C5N.png", C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/wGdLaO6Mx6A
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/jF3jb9JDBr0
 #EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-name="TV Publica" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png" audio-track="spa", TV Pública
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/n3_wuXh6jHY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/tmFJwnIBbNU
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/09-Cronica.png", Crónica TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/InSydaLSSlw
 #EXTINF:-1 tvg-id="TN.(Todo.Noticias).Argentina.(TN).ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/10-TN.png", Todo Noticias (TN)
@@ -28,11 +28,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HYxWurJ3ejE
 #EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/13-Telefe.png" audio-track="spa", Telefe
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/xt_t409r
 #EXTINF:-1 tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/14-Eltrece.png" audio-track="spa", El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/912k_wttx
 #EXTINF:-1 tvg-id="Canal.Nueve.(CNL9).ar" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/15-Elnueve.png" audio-track="spa", El Nueve
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/639_argtv3
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png", América TV
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ft10x08k
 
 #EXTINF:-1 tvg-id="Canal2.ar" tvg-name="Canal 2 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/17-Canal2.png", Canal 2
 https://nd106.republicaservers.com:4433/canal2misioness.mp4
